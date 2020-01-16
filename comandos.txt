@@ -12,3 +12,4 @@ en bin letra i para insertar
 git log = para ver los commits que hemos creado
 git checkout -- = para revertir los cambios de los archivos  
 git diff = para ver las diferencias hechas en los archivos
+cuando creas el archivo .gitignore puedes hacer que git ignore lo que desees
