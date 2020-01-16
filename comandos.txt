@@ -1,0 +1,10 @@
+git init = es como decirle a la maquina que en este proyecto vas a utilizar git
+git add = es para poder pasar los archivos del working directory al staging area
+git status = es para ver el estado de tu archivo, si estan en el working directory si estan en el staging area
+git commit = es para pasar del staging area al repository, como crear versiones
+git push = es para subirlo a un repositorio remoto
+git pull = si estas trabajando con otros desarrolladores te trae los cambios de esos desarrolladores
+git clone = haace una copia desde el servidor central a tu computador
+ls = comando para listar directorios y archivos
+pwd = para ver en que ruta de nuestro sistema esta posicionado el terminal
+
