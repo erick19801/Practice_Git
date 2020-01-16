@@ -19,3 +19,4 @@ git checkout _ =ponemos una de las ramas(usuario) que creamos para estar en ella
 git add . = para agregar todos los archivos
 git remote add origin _ = el link de tu repositorio
 git push -u origin master = iniciar con login 
+git clone _ = al url del proyecto para que se descargue
