@@ -7,4 +7,6 @@ git pull = si estas trabajando con otros desarrolladores te trae los cambios de 
 git clone = haace una copia desde el servidor central a tu computador
 ls = comando para listar directorios y archivos
 pwd = para ver en que ruta de nuestro sistema esta posicionado el terminal
-
+git config --global user.email
+en bin letra i para insertar
+git log = para ver los commits que hemos creado
